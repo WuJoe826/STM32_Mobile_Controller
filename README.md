@@ -11,5 +11,6 @@
 - 搖桿
 - 2個自定義功能鍵
 ## 外觀：
-參考Ayaneo的[Ayaneo Air 1s](https://ayaneo.com.cn/product/AYANEOAIR1S)掌機外觀，輕量化設計。  
 ![圖片](https://github.com/WuJoe826/STM32_Mobile_Controller/blob/main/Images/concept_pic.png "概念圖")
+
+參考Ayaneo的[Ayaneo Air 1s](https://ayaneo.com.cn/product/AYANEOAIR1S)掌機外觀，輕量化設計。  
