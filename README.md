@@ -10,6 +10,7 @@
 - 肩鍵
 - 搖桿
 - 2個自定義功能鍵
+- 綫性震動馬達
 ## 外觀(概念圖)：
 ![圖片](https://github.com/WuJoe826/STM32_Mobile_Controller/blob/main/Images/concept_pic.png "概念圖")
 
